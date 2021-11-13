@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-website/static/css/main.d2b09812.chunk.css",
+    "main.js": "/React-website/static/js/main.6945a37e.chunk.js",
+    "main.js.map": "/React-website/static/js/main.6945a37e.chunk.js.map",
+    "runtime-main.js": "/React-website/static/js/runtime-main.5c0c6648.js",
+    "runtime-main.js.map": "/React-website/static/js/runtime-main.5c0c6648.js.map",
+    "static/css/2.383c0125.chunk.css": "/React-website/static/css/2.383c0125.chunk.css",
+    "static/js/2.0742a489.chunk.js": "/React-website/static/js/2.0742a489.chunk.js",
+    "static/js/2.0742a489.chunk.js.map": "/React-website/static/js/2.0742a489.chunk.js.map",
+    "static/js/3.787625a3.chunk.js": "/React-website/static/js/3.787625a3.chunk.js",
+    "static/js/3.787625a3.chunk.js.map": "/React-website/static/js/3.787625a3.chunk.js.map",
+    "index.html": "/React-website/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/React-website/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.d2b09812.chunk.css.map": "/React-website/static/css/main.d2b09812.chunk.css.map",
+    "static/js/2.0742a489.chunk.js.LICENSE.txt": "/React-website/static/js/2.0742a489.chunk.js.LICENSE.txt",
+    "static/media/undraw_typewriter_i8xd.33cf3a3d.png": "/React-website/static/media/undraw_typewriter_i8xd.33cf3a3d.png",
+    "static/media/undraw_yoga_248n.3c2b9eb3.png": "/React-website/static/media/undraw_yoga_248n.3c2b9eb3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c0c6648.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.0742a489.chunk.js",
+    "static/css/main.d2b09812.chunk.css",
+    "static/js/main.6945a37e.chunk.js"
+  ]
+}
