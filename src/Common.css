@@ -1,0 +1,71 @@
+*,
+*::after,
+*::before {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+.common {
+  top: 5rem;
+}
+body {
+  font-family: "Mulish", sans-serif;
+  list-style: 1.7;
+}
+.yoga-svg {
+  animation: moveUpDown 0.7s infinite alternate;
+}
+.navbar-logo {
+  height: 2rem;
+}
+.container.contact.mt-3.w-50 {
+  position: absolute;
+  z-index: 200;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.photo {
+  height: 20rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 10px;
+}
+
+.blue {
+  color: rgb(0, 119, 255);
+}
+@keyframes moveUpDown {
+  0% {
+    transform: translateY(-0.7rem);
+  }
+  100% {
+    transform: translateY(0.7rem);
+  }
+}
+
+@media (max-width: 1200px) {
+  nav {
+    z-index: 25;
+  }
+  .particle-ground {
+    height: 100vh;
+  }
+  .btn-primary {
+    width: 100% !important;
+  }
+}
+@media (max-width: 600px) {
+  .contact {
+    width: auto !important;
+  }
+  .photo {
+    height: 15rem;
+    margin-top: 2rem;
+  }
+  .service-card {
+    justify-content: center !important;
+  }
+  .card {
+    margin-bottom: 2rem;
+  }
+}
